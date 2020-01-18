@@ -2,7 +2,7 @@
 
 <strong>Problem:</strong> To install Linux on a system or on a set of systems then admin have to configure each system separately which may take a lot of time if there are large number of systems for example If we want to install Linux on more than 500+ systems at the same.
 
-<strong>Question:</strong> Is there any simple and smart method to do that?
+<strong>Question:</strong> Is there any simple and smart method to do that?<br>
 <strong>Answer:</strong> PXE-Installation.
 
 If you are also looking for something like this follow the following links:<br>
